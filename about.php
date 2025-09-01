@@ -6,11 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php $nama = "silvia"
-          $umur ="15"
-    ?>
-
-    <h1>selamat datang,<?php echo $nama; ?>!</h1>
-
+    ini halaman about
 </body>
 </html>
